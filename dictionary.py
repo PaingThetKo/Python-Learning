@@ -4,5 +4,9 @@ person={
 };
 
 
-person['hair']='black';
-print(person);
+# person['hair']='black';
+# print(person);
+
+if 'name' in person:
+    print('work');
+
