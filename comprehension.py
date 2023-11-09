@@ -11,8 +11,11 @@
 
 nums = [1,2,3,4,5,6,7,8,9,10]
 
-even_double_nums = []
-for num in nums :
-    if (num%2) == 0:
-        even_double_nums.append(num*2)
+# even_double_nums = []
+# for num in nums :
+#     if (num%2) == 0:
+#         even_double_nums.append(num*2)
+# print(even_double_nums)
+
+even_double_nums = [num*2 for num in nums if (num%2)==0]
 print(even_double_nums)
