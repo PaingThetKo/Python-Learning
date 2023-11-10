@@ -16,6 +16,14 @@
 # print(nums)
 
 # filterig concept with lambda function
+# nums = [1,2,3,4,5,6,7,8,9]
+# evenNum = list (filter(lambda num:(num%2)==0,nums))
+# print(evenNum)
+
+
+# map concept 
 nums = [1,2,3,4,5,6,7,8,9]
-evenNum = list (filter(lambda num:(num%2)==0,nums))
-print(evenNum)
+def mapFunction(num):
+    return num*2
+nums = list (map(mapFunction,nums))
+print(nums)
