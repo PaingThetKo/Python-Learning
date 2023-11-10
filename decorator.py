@@ -1,11 +1,11 @@
 def greet(fun):
-    def wrapper():
+    def wrapper(name):
         print('My name is :')
-        fun()
+        fun(name)
         print('Nice to meet you.')
     return wrapper
 
 @greet
-def sayname():
-    print('Paing Thet Ko.')
-sayname()
+def sayname(name):
+    print(name)
+sayname('Paing Thet Ko.')
