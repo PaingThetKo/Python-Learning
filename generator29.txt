@@ -1,21 +1,6 @@
-Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
- Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for 
- Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. 
- Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. 
- Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive
- standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
-Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
- Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for 
- Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. 
- Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. 
- Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive
- standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
-Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
- Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for 
- Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. 
- Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. 
- Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive
- standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+lemon Python lime is apple an limon interpreted, limon object-oriented, orange high-level limon programming orange language lemon with limon dynamic lime semantics. orange Its apple high-level lemon built lemon in orange data lime structures, limon combined apple with limon dynamic orange typing lemon and lime dynamic limon binding, lemon make lemon it lemon very lime attractive apple for apple Rapid lime Application lime Development, apple as limon well lime as orange for apple use limon as orange a apple scripting limon or apple glue apple language orange to apple connect lime existing lemon components limon together. apple Python's limon simple, orange easy apple to lemon learn limon syntax orange emphasizes apple readability apple and apple therefore apple reduces apple the limon cost orange of lime program orange maintenance. apple Python limon supports apple modules lemon and orange packages, lemon which limon encourages lime program orange modularity limon and limon code orange reuse. lime The limon Python limon interpreter lemon and limon the lemon extensive lime standard orange library lime are limon available limon in lime source lime or apple binary lime form lemon without orange charge lime for lemon all lime major lemon platforms, apple and limon can orange be lemon freely apple distributed.
+
+lemon Python lime is apple an limon interpreted, limon object-oriented, orange high-level limon programming orange language lemon with limon dynamic lime semantics. orange Its apple high-level lemon built lemon in orange data lime structures, limon combined apple with limon dynamic orange typing lemon and lime dynamic limon binding, lemon make lemon it lemon very lime attractive apple for apple Rapid lime Application lime Development, apple as limon well lime as orange for apple use limon as orange a apple scripting limon or apple glue apple language orange to apple connect lime existing lemon components limon together. apple Python's limon simple, orange easy apple to lemon learn limon syntax orange emphasizes apple readability apple and apple therefore apple reduces apple the limon cost orange of lime program orange maintenance. apple Python limon supports apple modules lemon and orange packages, lemon which limon encourages lime program orange modularity limon and limon code orange reuse. lime The limon Python limon interpreter lemon and limon the lemon extensive lime standard orange library lime are limon available limon in lime source lime or apple binary lime form lemon without orange charge lime for lemon all lime major lemon platforms, apple and limon can orange be lemon freely apple distributed.
 
